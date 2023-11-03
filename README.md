@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm LazySec</h1>
 <h3 align="center">Exploring the world of cybersecurity the lazy, yet effective way</h3>
+<center><img src="https://github.com/LazyCyberSec/LazyCyberSec/assets/51275510/e5924b7d-6f97-438b-a692-20b71ee8cb7d"/></center>
+
+
 
 - 🔭 I’m currently working on [lazy cyber security](https://www.youtube.com/channel/UC3_0e81YGT_KLH7YtZzgPbQ)
 
